@@ -14,7 +14,7 @@ In my opinion, Makerbot should somehow try to get a little bit of visible revenu
 
 ## Issue Ranking
 
-Because GitHub doesn't seem to have a way to rank issues, I will list the most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the specific issues for the latest info.
+Because GitHub doesn't have an obvious way to rank issues, I will list the most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the [specific issues](https://github.com/DrLex0/ThingiverseIssues/issues) for the latest info.
 
 For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that they have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
