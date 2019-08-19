@@ -27,19 +27,21 @@ For discussions on specific issues, go to the [issues section](https://github.co
 7. [Double, triple, quadruple posts in Groups](https://github.com/DrLex0/ThingiverseIssues/issues/7).
 8. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8).
 9. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9).
-10. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10).
-11. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11).
-12. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12).
-13. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13).
-14. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
-15. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15).
-16. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16).
-17. [QR codes in attribution file rely on internal Google API](https://github.com/DrLex0/ThingiverseIssues/issues/17).
+10. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19).
+11. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10).
+12. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11).
+13. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12).
+14. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13).
+15. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
+16. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15).
+17. [Models Posted by Some Users Never Appear in the Newest Listings](https://github.com/DrLex0/ThingiverseIssues/issues/18).
+18. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16).
+19. [QR codes in attribution file rely on internal Google API](https://github.com/DrLex0/ThingiverseIssues/issues/17).
 
 
 ## Hints to Thingiverse users to reduce stress on the servers and improve usability
 
-* Do not keep hitting the submit button in groups/forums. If it doesn’t respond within a few seconds, just wait longer, or open the group in another tab to see if your message isn’t already there, before trying to send it again.
+* Do not keep hitting the submit button in groups/forums. If it doesn’t respond within a few seconds, just wait longer, or open the group in another tab to see if your message isn’t already there, before trying to send it again. If you do find multiple copies of your post, delete the duplicates.
 * Please **downscale** overly large photos before uploading them. Nobody is interested in zooming in on your photos to see how noisy the image sensor in your phone is because the manufacturer wanted to put a higher number of megapixels on the spec sheet. Even though it is possible for visitors to view photos in their full resolution, this requires jumping through all kinds of hoops. In practice, almost nobody will ever see your photos at full resolution. Bigger photos only take longer to process and put more stress on the already overloaded servers. Gallery images are rescaled to fit within 628×472 pixels. I always upload my photos at exactly twice that size (1256×944), which is plenty in most cases. Rescaling a photo in Paint, OS X Preview, GIMP, or some online tool, is not rocket science.
 * Upload at least one actual photo of your *printed* Thing. Even when the server is choking, your Thing will then at least have a visible thumbnail. Otherwise everybody will only see a gray rectangle with a cogwheel for hours or even days. If you don’t have a 3D print to take a photo of, then in my opinion you shouldn’t even be uploading it to the site. I tend to completely ignore Things that only have the default blue 3D model thumbnail.
 * Do not try to use animated GIFs as gallery photos. They will seem to work initially, but once the servers have finally chewed on the ridiculously large file, it will have been converted to a static JPEG. GIF is not suitable for video, period. Upload videos to YouTube, and put the link in the description to get a video in the gallery that always works and does not force people to pull in tens of megabytes of very poorly compressed video. If you badly want to use a GIF anyway, upload it as an image in a separate section of the Thing description, there it will not be converted and keep working.
