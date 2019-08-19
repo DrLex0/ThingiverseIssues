@@ -24,7 +24,7 @@ For discussions on specific issues, go to the [issues section](https://github.co
 4. [Need more transparency regarding website status](https://github.com/DrLex0/ThingiverseIssues/issues/4).
 5. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5).
 6. [In Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6).
-7. [Double, triple, quadruple posts in Groups](https://github.com/DrLex0/ThingiverseIssues/issues/7).
+7. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7).
 8. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8).
 9. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9).
 10. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19).
