@@ -20,7 +20,7 @@ Because GitHub doesn't have an obvious way to rank issues, I will list the most 
 
 For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that they have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
-1. [Gallery images and ZIPs take hours or days to be generated](https://github.com/DrLex0/ThingiverseIssues/issues/1).
+1. [Gallery images unreliable, ZIP download files are missing](https://github.com/DrLex0/ThingiverseIssues/issues/1).
 2. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2).
 3. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3).
 4. [Need more transparency regarding website status](https://github.com/DrLex0/ThingiverseIssues/issues/4).
