@@ -20,25 +20,26 @@ Because GitHub doesn't have an obvious way to rank issues, I will list the most 
 
 For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that they have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
-1. [Gallery images unreliable, ZIP download files are missing](https://github.com/DrLex0/ThingiverseIssues/issues/1).
-2. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2).
-3. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3).
-4. [Need more transparency regarding website status](https://github.com/DrLex0/ThingiverseIssues/issues/4).
-5. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5).
-6. [In Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6).
-7. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7).
-8. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8).
-9. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9).
-10. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19).
-11. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10).
-12. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11).
-13. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12).
-14. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13).
-15. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
-16. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15).
-17. [Models Posted by Some Users Never Appear in the Newest Listings](https://github.com/DrLex0/ThingiverseIssues/issues/18).
-18. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16).
-19. [QR codes in attribution file rely on internal Google API](https://github.com/DrLex0/ThingiverseIssues/issues/17).
+1. [Gallery images unreliable, ZIP download files are missing](https://github.com/DrLex0/ThingiverseIssues/issues/1)
+2. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
+3. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
+4. [Need more transparency regarding website status](https://github.com/DrLex0/ThingiverseIssues/issues/4)
+5. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3)
+6. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5)
+7. [In (paginated) Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6)
+8. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7)
+9. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8)
+10. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9)
+11. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19)
+12. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10)
+13. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11)
+14. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12)
+15. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13)
+16. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
+17. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15)
+18. [Models Posted by Some Users Never Appear in the Newest Listings](https://github.com/DrLex0/ThingiverseIssues/issues/18)
+19. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
+20. [QR codes in attribution file rely on internal Google API](https://github.com/DrLex0/ThingiverseIssues/issues/17)
 
 
 ## Hints to Thingiverse users to reduce stress on the servers and improve usability
