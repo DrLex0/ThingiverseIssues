@@ -9,25 +9,25 @@ Please remain friendly in issue comments or I will just take this down again. I 
 
 From what I have heard, Makerbot (or its parent company Stratasys), the company that owns and manages Thingiverse, does not consider it a profitable website. Of course it is hard to quantify how sales of 3D printers would be affected if this gigantic repository of free-to-download shared 3D models would disappear, but this lack of interest from their part is the main reason why the amount of maintenance assigned to the site is very minimal. Of course this results in very slow responses to issues on the website.
 
-My impression of what is happening here, is the following: every few months, one or two random Makerbot employees are picked to take a look at this site which they are probably unfamiliar with, and they get a budget of a fixed number of days (hours?) to work on the site. They try to hack some fixes or new features into the probably horrible codebase, and then leave behind these hacks to spawn new issues to be ‘solved’ by the next randomly picked persons. This is only a guess of mine, but I work for a company that makes a product that has a large web-based UI part, and I have some experience and education in recognizing bad development practices without even looking at the code.
+My impression of what is happening here, is the following. I suspect that during management meetings, Thingiverse is treated as some kind of appendix whose usefulness is heavily doubted because the paper pushers do not see concrete revenue figures from it. They don't really dare to axe it, so instead they have reduced its resource allocations to the bare minimum. Every few months, one or two random Makerbot employees are picked to take a look at this site which they are probably unfamiliar with, and they get a budget of a fixed number of days (hours?) to work on fixing problems. They then try to hack some fixes or new features into the probably horrible codebase, and leave behind these hacks to spawn new issues to be ‘solved’ by the next randomly picked persons. This is only a guess of mine based on observations from the last 3 years, but I work for a company that makes a product that has a large web-based UI part, and I have some experience and education in recognizing bad development practices without even looking at the code.
 
-In my opinion, Makerbot should somehow try to get a little bit of visible revenue from the site, be it through a few ads on the main page, such that there is an actual budget for maintaining it.
+In my opinion, Makerbot should somehow try to get a little bit of visible revenue from the site, be it through a few ads on the main page, such that there is an actual budget for maintaining it. This could convince the paper-pushers to allocate more resources to it.
 
 
 ## Issue Ranking
 
-Because GitHub doesn't have an obvious way to rank issues, I will list the most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the [specific issues](https://github.com/DrLex0/ThingiverseIssues/issues) for the latest info.
+Because GitHub doesn't have an obvious way to rank issues, I will list the 20 most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the [specific issues](https://github.com/DrLex0/ThingiverseIssues/issues) for the latest info.
 
-For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that they have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
+For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that Makerbot have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
 1. [Need more transparency regarding website status and future plans](https://github.com/DrLex0/ThingiverseIssues/issues/4)
 2. [Gallery images unreliable, ZIP download files are missing](https://github.com/DrLex0/ThingiverseIssues/issues/1)
 3. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
-4. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
-5. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3)
-6. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5)
-7. [In (paginated) Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6)
-8. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7)
+4. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7)
+5. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
+6. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3)
+7. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5)
+8. [In (paginated) Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6)
 9. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8)
 10. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9)
 11. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19)
