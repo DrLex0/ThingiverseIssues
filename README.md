@@ -21,7 +21,7 @@ Because GitHub doesn't have an obvious way to rank issues, I will list the 20 mo
 For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that Makerbot have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
 1. [Need more transparency regarding website status and future plans](https://github.com/DrLex0/ThingiverseIssues/issues/4)
-2. [Gallery images unreliable, ZIP download files are missing](https://github.com/DrLex0/ThingiverseIssues/issues/1)
+2. [ZIP files are not updated and contain wrong images](https://github.com/DrLex0/ThingiverseIssues/issues/25)
 3. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
 4. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7)
 5. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
@@ -37,9 +37,9 @@ For discussions on specific issues, go to the [issues section](https://github.co
 15. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13)
 16. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
 17. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15)
-18. [Models Posted by Some Users Never Appear in the Newest Listings](https://github.com/DrLex0/ThingiverseIssues/issues/18)
-19. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
-20. [QR codes in attribution file rely on internal Google API](https://github.com/DrLex0/ThingiverseIssues/issues/17)
+18. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
+19. [Search often fails but without error](https://github.com/DrLex0/ThingiverseIssues/issues/23)
+20. [Models posted by some users never appear in the newest listings](https://github.com/DrLex0/ThingiverseIssues/issues/18)
 
 
 ## Hints to Thingiverse users to reduce stress on the servers and improve usability
