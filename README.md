@@ -14,28 +14,28 @@ For discussions on specific issues, go to the [issues section](https://github.co
 1. [Need more transparency regarding website status and future plans](https://github.com/DrLex0/ThingiverseIssues/issues/4)
 2. [ZIP files are not updated and contain wrong images](https://github.com/DrLex0/ThingiverseIssues/issues/25)
 3. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
-4. [Double, triple, quadruple posts in Groups due to bad UI](https://github.com/DrLex0/ThingiverseIssues/issues/7)
+4. [Bad UI design of the Groups leads to double, triple, quadruple posts](https://github.com/DrLex0/ThingiverseIssues/issues/7)
 5. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
 6. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3)
 7. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5)
 8. [In (paginated) Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6)
-9. [Tip payouts are completely messed up](https://github.com/DrLex0/ThingiverseIssues/issues/8)
+9. [Download and view counts highly inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19)
 10. [Collections shown as zero even if Thing has collections](https://github.com/DrLex0/ThingiverseIssues/issues/9)
-11. [Downloads Counts Highly Inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19)
-12. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10)
-13. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11)
-14. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12)
-15. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13)
-16. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14). 
-17. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15)
-18. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
-19. [Search often fails but without error](https://github.com/DrLex0/ThingiverseIssues/issues/23)
+11. [Full screen view in gallery is useless](https://github.com/DrLex0/ThingiverseIssues/issues/10)
+12. [Link to original photo in gallery is often unclickable](https://github.com/DrLex0/ThingiverseIssues/issues/11)
+13. [Numbers instead of names in Thing ZIP file](https://github.com/DrLex0/ThingiverseIssues/issues/12)
+14. [ZIP file does not contain full Thing description](https://github.com/DrLex0/ThingiverseIssues/issues/13)
+15. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14)
+16. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15)
+17. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
+18. [Search often fails but without error](https://github.com/DrLex0/ThingiverseIssues/issues/23)
+19. [Logging in causes logout on other devices](https://github.com/DrLex0/ThingiverseIssues/issues/24)
 20. [Models posted by some users never appear in the newest listings](https://github.com/DrLex0/ThingiverseIssues/issues/18)
 
 
 ## Hints to Thingiverse users to reduce stress on the servers and improve usability
 
-* Do not keep hitting the submit button in groups/forums. If it doesn’t respond within a few seconds, just wait longer, or open the group in another tab to see if your message isn’t already there, before trying to send it again. If you do find multiple copies of your post, delete the duplicates.
+* **Do not keep hitting the submit button in groups/forums.** If it doesn’t respond within a few seconds, just wait longer, or open the group in another tab to see if your message isn’t already there, before trying to send it again. If you do find multiple copies of your post, delete the duplicates.
 * Please **downscale** overly large photos before uploading them. Nobody is interested in zooming in on your photos to see how noisy the image sensor in your phone is because the manufacturer wanted to put a higher number of megapixels on the spec sheet. Even though it is possible for visitors to view photos in their full resolution, this requires jumping through all kinds of hoops. In practice, almost nobody will ever see your photos at full resolution. Bigger photos only take longer to process and put more stress on the already overloaded servers. Gallery images are rescaled to fit within 628×472 pixels. I always upload my photos at exactly twice that size (1256×944), which is plenty in most cases. Rescaling a photo in Paint, OS X Preview, GIMP, or some online tool, is not rocket science.
 * Upload at least one actual photo of your *printed* Thing. Even when the server is choking, your Thing will then at least have a visible thumbnail. Otherwise everybody will only see a gray rectangle with a cogwheel for hours or even days. If you don’t have a 3D print to take a photo of, then in my opinion you shouldn’t even be uploading it to the site. I tend to completely ignore Things that only have the default blue 3D model thumbnail.
 * Do not try to use animated GIFs as gallery photos. They will seem to work initially, but once the servers have finally chewed on the ridiculously large file, it will have been converted to a static JPEG. GIF is not suitable for video, period. Upload videos to YouTube, and put the link in the description to get a video in the gallery that always works and does not force people to pull in tens of megabytes of very poorly compressed video. If you badly want to use a GIF anyway, upload it as an image in a separate section of the Thing description, there it will not be converted and keep working.
