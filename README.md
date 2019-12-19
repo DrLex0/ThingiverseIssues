@@ -13,9 +13,9 @@ For discussions on specific issues, go to the [issues section](https://github.co
 
 If you have good evidence that one of these issues is fixed, please add it to the issue ticket.
 
-1. [Need more transparency regarding website status and future plans](https://github.com/DrLex0/ThingiverseIssues/issues/4)
-2. [ZIP files are not updated and contain wrong images](https://github.com/DrLex0/ThingiverseIssues/issues/25)
-3. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
+1. [Slow and unreliable website: 500, 503, 504 errors](https://github.com/DrLex0/ThingiverseIssues/issues/2)
+2. [Need more transparency regarding website status and future plans](https://github.com/DrLex0/ThingiverseIssues/issues/4)
+3. [ZIP files are not updated and contain wrong images](https://github.com/DrLex0/ThingiverseIssues/issues/25)
 4. [Bad UI design of the Groups leads to double, triple, quadruple posts](https://github.com/DrLex0/ThingiverseIssues/issues/7)
 5. [Aspect ratios and cropping of uploaded photos are a mess](https://github.com/DrLex0/ThingiverseIssues/issues/27)
 6. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
