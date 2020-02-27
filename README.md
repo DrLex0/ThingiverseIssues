@@ -7,7 +7,7 @@ Please remain friendly in issue comments or I will just take this down again. I 
 
 ## Issue Ranking
 
-Because GitHub doesn't have an obvious way to rank issues, I will list the 20 most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the [specific issues](https://github.com/DrLex0/ThingiverseIssues/issues) for the latest info.
+Because GitHub doesn't have an obvious way to rank issues, I will list the (maximum) 20 most important issues here, ranked (in my opinion) from most to least pressing. This may not be entirely up-to-date, look at the [specific issues](https://github.com/DrLex0/ThingiverseIssues/issues) for the latest info.
 
 For discussions on specific issues, go to the [issues section](https://github.com/DrLex0/ThingiverseIssues/issues). You can add new ones, but please refrain from adding issues for extremely trivial things or requests for fancy new features. It is obvious that Makerbot have few resources to fix even the worst issues, so swamping them with a long list of minor things won't help in any way.
 
@@ -21,7 +21,7 @@ If you have good evidence that one of these issues is fixed, please close its is
 6. [Thumbnail (preview) image in Things listing is missing or incorrect](https://github.com/DrLex0/ThingiverseIssues/issues/28)
 7. ["Recently Made" section on front page no longer updated](https://github.com/DrLex0/ThingiverseIssues/issues/21)
 8. [Large GIF files must be banned](https://github.com/DrLex0/ThingiverseIssues/issues/33)
-9. [Uploads often fail invisibly](https://github.com/DrLex0/ThingiverseIssues/issues/3)
+9. [Some Things cannot be found](https://github.com/DrLex0/ThingiverseIssues/issues/22)
 10. [Customizer is broken very often](https://github.com/DrLex0/ThingiverseIssues/issues/5)
 11. [In (paginated) Groups/Forums, only the first page can be seen](https://github.com/DrLex0/ThingiverseIssues/issues/6)
 12. [Download and view counts highly inaccurate](https://github.com/DrLex0/ThingiverseIssues/issues/19)
@@ -32,7 +32,8 @@ If you have good evidence that one of these issues is fixed, please close its is
 17. [Default license setting does nothing](https://github.com/DrLex0/ThingiverseIssues/issues/14)
 18. [Website encourages ‘laundering’ of Thing licenses](https://github.com/DrLex0/ThingiverseIssues/issues/15)
 19. [Shoddy anti-spam system in Groups and comments](https://github.com/DrLex0/ThingiverseIssues/issues/16)
-20. [Some Things cannot be found](https://github.com/DrLex0/ThingiverseIssues/issues/22)
+20. [Models Posted by Some Users Never Appear in the Newest Listings](https://github.com/DrLex0/ThingiverseIssues/issues/18)
+
 
 ## Hints to Thingiverse users to reduce stress on the servers and improve usability
 
