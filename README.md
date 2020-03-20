@@ -1,3 +1,8 @@
+# I WILL NO LONGER MAINTAIN THIS.
+
+See [issue #35](https://github.com/DrLex0/ThingiverseIssues/issues/35).
+
+
 # Thingiverse Issue Observation Thingamajig
 
 This is an **UNOFFICIAL** tracker for current issues on the [Thingiverse](https://www.thingiverse.com) website. **I am NOT affiliated with Thingiverse or Makerbot/Stratasys in any way.** I am just one of the many users who are annoyed by the lack of support and maintenance on the website. I am merely trying to better document what is wrong with the site. I cannot do anything to fix anything about the website, the only thing I can do is report issues here and hope someone at Thingiverse finds this and uses it to fix at least the most pressing issues.
