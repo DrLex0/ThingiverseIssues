@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse fix eyesore styles
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.1
+// @version      0.2
 // @description  Workaround for stupid tiny pale text and other dumb styles in the new site design
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/thing:*
@@ -9,8 +9,6 @@
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
-
-var $ = window.$;
 
 function GM_addStyle(css) {
   const style = document.getElementById("GM_addStyle314159") || (function() {
@@ -65,5 +63,6 @@ GM_addStyle ( `
 GM_addStyle ( `
     .ThingPage__description--14TtH p a {
         display: inline;
+        word-break: normal;
     `
 );
