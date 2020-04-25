@@ -5,6 +5,7 @@
 // @description  Workaround for issue #11
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/thing:*
+// @include      https://www.thingiverse.com/make:*
 // @grant        none
 // ==/UserScript==
 
