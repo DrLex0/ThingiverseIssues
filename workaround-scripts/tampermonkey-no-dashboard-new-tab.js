@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse no dashboard opening in new tab
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.1
+// @version      0.2
 // @description  1999 called, they want their “target="_blank"” back. Let the user decide whether to open things in a new window.
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/*
@@ -19,4 +19,5 @@ function hack() {
    }
 };
 
-hack();
+// Delay execution because this crap seems to be dynamically loaded and sometimes we're too early.
+window.setTimeout(hack, 1000);
