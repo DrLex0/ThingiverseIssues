@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Thingiverse remove annoying users' comments
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.1
+// @version      0.2
 // @description  Filter out group messages from users that post stuff you don't care about.
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/groups/*
+// @include      https://www.thingiverse.com/dashboard*
 // @grant        none
 // ==/UserScript==
 
