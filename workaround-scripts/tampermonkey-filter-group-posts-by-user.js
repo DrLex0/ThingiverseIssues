@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse remove annoying users' comments
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.3
+// @version      0.4
 // @description  Filter out group messages from users that post stuff you don't care about.
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/groups/*
@@ -22,6 +22,10 @@ function hack() {
     'use strict';
     var dashboardLinks = document.getElementsByClassName('comment-body content-box full-width');
     for(var i = 0; i < dashboardLinks.length; i++) {
+        if(! dashboardLinks[i].firstElementChild) {
+            // Be robust against the utter incompetence of the website maintainers
+            continue;
+        }
         if(dashboardLinks[i].firstElementChild.className == "comment-header") {
             var userLink = dashboardLinks[i].firstElementChild.firstElementChild;
             if(userLink.nodeName == "A" && filterSlash.indexOf(userLink.getAttribute("href")) > -1) {
