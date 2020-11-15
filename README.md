@@ -2,6 +2,8 @@
 
 See [issue #35](https://github.com/DrLex0/ThingiverseIssues/issues/35).
 
+I might still update the workaround scripts from time to time, although I avoid using the Thingiverse website altogether and I recommend the same to anyone else. The glory days of Thingiverse are over. It is now owned by people who don't care about maintaining a community of 3D printing enthusiasts at all. There are better sites now in that regard, like [the one from PrusaPrinters](https://www.prusaprinters.org/prints).
+
 
 # Thingiverse Issue Observation Thingamajig
 
