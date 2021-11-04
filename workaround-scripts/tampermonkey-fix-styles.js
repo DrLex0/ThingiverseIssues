@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse fix eyesore styles
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.2
+// @version      0.3
 // @description  Workaround for stupid tiny pale text and other dumb styles in the new site design
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/thing:*
@@ -25,6 +25,7 @@ function GM_addStyle(css) {
 // The horrible class names make it seem as if this is randomly generated junk that can break at any time.
 // This is all quick & dirty because I don't want to spend much time on something that can change at any time.
 
+function hack() {
 // Get rid of the preposterous tiny pale fonts that are just downright stupid.
 GM_addStyle ( `
 .ThingComment__commentBody--2xT45 p,
@@ -33,29 +34,29 @@ GM_addStyle ( `
 .ThingPage__preHistory--312bi p
 {
     padding: 15x 20px;
-    color: #000;
-    opacity: 1.0;
-    font-size: medium;
-    line-height: normal;
+    color: #000 !important;
+    opacity: 1.0 !important;
+    font-size: medium !important;
+    line-height: normal !important;
 }
 `);
 GM_addStyle ( `
 .ThingPage__blockTitle--3ZdLu {
-    color: #000;
-    font-weight: bold;
-    font-size: x-large;
+    color: #000 !important;
+    font-weight: bold !important;
+    font-size: x-large !important;
 }
 `);
 GM_addStyle ( `
 .ThingPage__contentTitle--1sg_6 {
-    color: #000;
-    font-weight: bold;
-    font-size: large;
+    color: #000 !important;
+    font-weight: bold !important;
+    font-size: large !important;
 }
 `);
 GM_addStyle ( `
 .ThingComment__commentTextArea--3Px7K {
-    font-size: .9em;
+    font-size: .9em !important;
 }
 `);
 
@@ -66,3 +67,6 @@ GM_addStyle ( `
         word-break: normal;
     `
 );
+}
+
+window.setTimeout(hack, 250);
