@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse fix lack of scroll in private messages
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.1
+// @version      0.2
 // @description  Workaround that re-adds scrolling to private message threads
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/messages:*
@@ -10,10 +10,10 @@
 // ==/UserScript==
 
 function GM_addStyle(css) {
-  const style = document.getElementById("GM_addStyle314160") || (function() {
+  const style = document.getElementById("GM_addStyle_TIVfix_02") || (function() {
     const style = document.createElement('style');
     style.type = 'text/css';
-    style.id = "GM_addStyleBy8627";
+    style.id = "GM_addStyle_TIVfix_02";
     document.head.appendChild(style);
     return style;
   })();

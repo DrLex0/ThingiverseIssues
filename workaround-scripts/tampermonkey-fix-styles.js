@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Thingiverse fix eyesore styles
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.3
+// @version      0.4
 // @description  Workaround for stupid tiny pale text and other dumb styles in the new site design
 // @author       Dr. Lex
 // @include      https://www.thingiverse.com/thing:*
@@ -11,10 +11,10 @@
 // ==/UserScript==
 
 function GM_addStyle(css) {
-  const style = document.getElementById("GM_addStyle314159") || (function() {
+  const style = document.getElementById("GM_addStyle_TIVfix_01") || (function() {
     const style = document.createElement('style');
     style.type = 'text/css';
-    style.id = "GM_addStyleBy8626";
+    style.id = "GM_addStyle_TIVfix_01";
     document.head.appendChild(style);
     return style;
   })();
