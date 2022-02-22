@@ -11,7 +11,7 @@
 
 // Edit this list to your likings. Mind that this is case-sensitive.
 // Any similarity between this example and real usernames is purely coincidental. Ahem.
-var filterUsers = ["CpCaveman"];
+var filterUsers = ["CpCaveman", "Terminus"];
 
 var filterSlash = [];
 filterUsers.forEach(function(x) {
