@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Thingiverse fix eyesore styles
 // @namespace    https://github.com/DrLex0/ThingiverseIssues
-// @version      0.4
+// @version      0.5
 // @description  Workaround for stupid tiny pale text and other dumb styles in the new site design
 // @author       Dr. Lex
-// @include      https://www.thingiverse.com/thing:*
-// @include      https://www.thingiverse.com/make:*
+// @match        https://www.thingiverse.com/thing:*
+// @match        https://www.thingiverse.com/make:*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
@@ -31,6 +31,9 @@ GM_addStyle ( `
 .ThingComment__commentBody--2xT45 p,
 .ThingPage__description--14TtH p,
 .ThingPage__description--14TtH div,
+.ThingPage__thingDetails--31KAR p,
+.ThingPage__thingDetails--31KAR div,
+.ThingPage__thingDetails--31KAR li,
 .ThingPage__preHistory--312bi p
 {
     padding: 15x 20px;
